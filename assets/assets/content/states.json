@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "states": [
+  {
+   "code": "KA",
+   "geo_code": "karnataka",
+   "name": "Karnataka",
+   "name_kn": "ಕರ್ನಾಟಕ",
+   "status": "live",
+   "districts": 31
+  },
+  {
+   "code": "TN",
+   "geo_code": "tamil-nadu",
+   "name": "Tamil Nadu",
+   "name_kn": "ತಮಿಳುನಾಡು",
+   "status": "coming_soon"
+  },
+  {
+   "code": "KL",
+   "geo_code": "kerala",
+   "name": "Kerala",
+   "name_kn": "ಕೇರಳ",
+   "status": "coming_soon"
+  },
+  {
+   "code": "GA",
+   "geo_code": "goa",
+   "name": "Goa",
+   "name_kn": "ಗೋವಾ",
+   "status": "coming_soon"
+  },
+  {
+   "code": "TG",
+   "geo_code": "telangana",
+   "name": "Telangana",
+   "name_kn": "ತೆಲಂಗಾಣ",
+   "status": "coming_soon"
+  },
+  {
+   "code": "AP",
+   "geo_code": "andhra-pradesh",
+   "name": "Andhra Pradesh",
+   "name_kn": "ಆಂಧ್ರ ಪ್ರದೇಶ",
+   "status": "coming_soon"
+  }
+ ]
+}

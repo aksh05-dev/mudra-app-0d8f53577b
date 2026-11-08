@@ -1,0 +1,37 @@
+{
+ "version": 1,
+ "divisions": [
+  {
+   "id": "bengaluru",
+   "state": "KA",
+   "name": "Bengaluru",
+   "name_kn": "ಬೆಂಗಳೂರು ವಿಭಾಗ",
+   "order": 1,
+   "ink": "#2A4B9B"
+  },
+  {
+   "id": "mysuru",
+   "state": "KA",
+   "name": "Mysuru",
+   "name_kn": "ಮೈಸೂರು ವಿಭಾಗ",
+   "order": 2,
+   "ink": "#8C2F39"
+  },
+  {
+   "id": "belagavi",
+   "state": "KA",
+   "name": "Belagavi",
+   "name_kn": "ಬೆಳಗಾವಿ ವಿಭಾಗ",
+   "order": 3,
+   "ink": "#8A5212"
+  },
+  {
+   "id": "kalaburagi",
+   "state": "KA",
+   "name": "Kalaburagi",
+   "name_kn": "ಕಲಬುರಗಿ ವಿಭಾಗ",
+   "order": 4,
+   "ink": "#5B3F86"
+  }
+ ]
+}
