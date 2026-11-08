@@ -1,9 +1,9 @@
 {
-    "name": "mudra",
-    "short_name": "mudra",
+    "name": "Mudra",
+    "short_name": "Mudra",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#1E2F5C",
+    "background_color": "#FBF8EF",
     "theme_color": "#1E2F5C",
     "description": "Mudra - your digital philately passport",
     "orientation": "portrait-primary",
